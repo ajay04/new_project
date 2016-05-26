@@ -1,4 +1,4 @@
-*.pyc
+
 __pycache__
 myvenv
 db.sqlite3
@@ -8,3 +8,4 @@ db.sqlite3
 ~*
 #~
 ~#
+*.pyc

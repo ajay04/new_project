@@ -8,13 +8,15 @@ body {
 
 
 h1 a {
-    color: #FCA205;
+    color: #99ff33;
     font-family: 'Lobster';
 }
 
 
 .page-header {
-    background-color: #ff9400;
+    text-color:#FCA205;
+    text-align:center;
+    background-color: #99ff33;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
